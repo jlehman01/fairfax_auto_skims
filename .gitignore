@@ -1,3 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Auto_Skims_Analysis.html
+
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +44,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+
+
