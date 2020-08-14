@@ -5,6 +5,7 @@
 !.gitignore
 !Auto_Skims_Analysis.html
 !/Auto_Skims_Analysis_files/
+!Auto_Skims_Analysis_Station_Zones.html
 
 # History files
 .Rhistory
